@@ -33,7 +33,7 @@ Sources:
 3. Run all cells  
 
 
-## 🔧 Machine Learning Models Used
+## 🔧 Machine Learning Model Used
 LSTM Model - LSTM is a type of Recurrent Neural Network (RNN) widely used for sequence prediction problems such as stock price forecasting.Stock prices follow sequential patterns.So LSTM remembers past trends using memory cells.More accurate for next-day or multi-step forecasting compared to simple ML models.
 
 ## 📈 Results
